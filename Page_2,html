@@ -2,8 +2,7 @@
 <html>
 <body>
 
-<h1>Heading</h1>
-<p>Sample Text</p>
+<h1>This is Page 2</h1>
 
 <img src="https://github.com/RobertPottsII/About-Me/blob/main/PeriodicTable.png" alt="Periodic Table">
 <p><a href="https://github.com/RobertPottsII/About-Me/blob/main/PeriodicTable.png" target="_blank">This is a link to a graphic.</a></p>
